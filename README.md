@@ -16,6 +16,5 @@ RF system architecture can be implemented using RF System models available in th
 
 **Conclusion:**
 
-From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of
-78.42 ohm and also got the width of quarter wave line of 1.138 mm.
+The quarter-wave transformer was successfully designed and simulated using CST Studio Suite 2019 to match a 50 Ω microstrip line with a 123 Ω load. The simulation results verified efficient impedance matching, showing minimal reflection and improved power transfer at the designed frequency. Hence, the design effectively demonstrates the principle of impedance matching using a quarter-wave transformer.
 
